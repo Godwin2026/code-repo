@@ -1,0 +1,15 @@
+
+
+span {
+  background-color: red;
+  padding: 10px 20px;
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  cursor: pointer;
+}
+
+  #output {
+    position:absolute;
+    top: 100px;
+    font-family: arial black;
+  }

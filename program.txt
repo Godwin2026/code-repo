@@ -1,0 +1,3 @@
+Hi there!
+
+I think this is my very first line of code using the notepad text editor on this machine
